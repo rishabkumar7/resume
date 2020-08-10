@@ -10106,6 +10106,9 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+.dev-icon{
+  color: #6C63FF;
+}
 
 section.resume-section {
   display: flex;
